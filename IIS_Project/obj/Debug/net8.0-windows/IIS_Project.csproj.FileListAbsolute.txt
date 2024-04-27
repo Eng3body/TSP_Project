@@ -1,0 +1,16 @@
+E:\Development\anythingelse\IIS_Project\bin\Debug\net8.0-windows\IIS_Project.exe
+E:\Development\anythingelse\IIS_Project\bin\Debug\net8.0-windows\IIS_Project.deps.json
+E:\Development\anythingelse\IIS_Project\bin\Debug\net8.0-windows\IIS_Project.runtimeconfig.json
+E:\Development\anythingelse\IIS_Project\bin\Debug\net8.0-windows\IIS_Project.dll
+E:\Development\anythingelse\IIS_Project\bin\Debug\net8.0-windows\IIS_Project.pdb
+E:\Development\anythingelse\IIS_Project\obj\Debug\net8.0-windows\IIS_Project.TSP_Main_Screen.resources
+E:\Development\anythingelse\IIS_Project\obj\Debug\net8.0-windows\IIS_Project.csproj.GenerateResource.cache
+E:\Development\anythingelse\IIS_Project\obj\Debug\net8.0-windows\IIS_Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\anythingelse\IIS_Project\obj\Debug\net8.0-windows\IIS_Project.AssemblyInfoInputs.cache
+E:\Development\anythingelse\IIS_Project\obj\Debug\net8.0-windows\IIS_Project.AssemblyInfo.cs
+E:\Development\anythingelse\IIS_Project\obj\Debug\net8.0-windows\IIS_Project.csproj.CoreCompileInputs.cache
+E:\Development\anythingelse\IIS_Project\obj\Debug\net8.0-windows\IIS_Project.dll
+E:\Development\anythingelse\IIS_Project\obj\Debug\net8.0-windows\refint\IIS_Project.dll
+E:\Development\anythingelse\IIS_Project\obj\Debug\net8.0-windows\IIS_Project.pdb
+E:\Development\anythingelse\IIS_Project\obj\Debug\net8.0-windows\IIS_Project.genruntimeconfig.cache
+E:\Development\anythingelse\IIS_Project\obj\Debug\net8.0-windows\ref\IIS_Project.dll
